@@ -8,9 +8,7 @@
 }
 
 body{
-    background-image: url(../images/png/test.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #0f009b;
     display: flex;
     align-items: center;
     justify-content: center;
